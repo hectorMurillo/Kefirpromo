@@ -1,0 +1,6 @@
+{
+  "name": "Kéfir Vital Montería",
+  "description": "Lácteos probióticos artesanales, 100% vivos y sin azúcar en Montería. Kéfir de leche, yogur griego y catálogo interactivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
